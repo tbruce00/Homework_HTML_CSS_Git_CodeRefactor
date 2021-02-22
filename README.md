@@ -28,4 +28,4 @@ https://tbruce00.github.io/Homework_HTML_CSS_Git_CodeRefactor/
 ## Application Screenshot
 
 ![Webpage Screenshot]
-(/Homework_HTML_CSS_Git_CodeRefactor/assets/images/screenshot.png
+(screenshot.png)
