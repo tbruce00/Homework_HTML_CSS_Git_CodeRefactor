@@ -25,4 +25,4 @@ https://tbruce00.github.io/Homework_HTML_CSS_Git_CodeRefactor/
 
 ###### Application Screenshot
 
-Capto_Capture 2021-02-21_06-44-14_PM.png
+![Webpage Screenshot](/Homework_HTML_CSS_Git_CodeRefactor/assets/images/Capto_Capture 2021-02-21_06-44-14_PM.png?raw=true 
