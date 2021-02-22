@@ -27,5 +27,5 @@ https://tbruce00.github.io/Homework_HTML_CSS_Git_CodeRefactor/
 
 ## Application Screenshot
 
-![Webpage Screenshot]
-(/Homework_HTML_CSS_Git_CodeRefactor/assets/images/screenshot.png
+![Horiseon_Webpage](/Desktop/Homework_1/Week_1/Homework_HTML_CSS_Github_CodeRefactor/assets/images/screenshot.png)
+
